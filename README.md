@@ -90,7 +90,7 @@ project/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/heritage-india.git
+   git clone https: https://github.com/rohitkluniversity/Indian-Heritage-and-Culture
    cd heritage-india
    ```
 
@@ -127,20 +127,3 @@ The project roadmap includes several planned enhancements:
 4. **Virtual Tours** - 360° virtual tours of historical monuments and cultural sites
 5. **Community Features** - User accounts, comments, and content contributions
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- Images sourced from [Unsplash](https://unsplash.com)
-- Design inspiration from various cultural heritage websites
-- Content researched from authoritative sources on Indian heritage
-
----
-
-Developed with ❤️ for celebrating India's rich cultural heritage.
